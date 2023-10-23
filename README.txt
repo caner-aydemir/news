@@ -11,6 +11,11 @@ Kullandığım teknolojiler;
 -Tailwind Css
 -NewsApi
 
+
+Projeyi kendi test web siteme ekledim. Site üzerinden de projeyi test edebilirsiniz.
+
+https://www.tatsiz.com.tr
+
 Github Repoları
 
 -https://github.com/caner-aydemir/news
